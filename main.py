@@ -13,9 +13,9 @@ from datetime import datetime
 from pyrogram import enums
 API_ID = "25193832"
 API_HASH = "e154b1ccb0195edec0bc91ae7efebc2f"
-BOT_TOKEN = "7334591508:AAF9uU2Iosciadg_YG8fyeMDBRrUHHOBa5M"
+BOT_TOKEN = "7891459986:AAEGIWcXtzogVgc07IOHGYasC0c6nzINtrs"
 MONGO_URL = "mongodb+srv://great:great@cluster0.4qgnh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-BOT_USERNAME = "shree_ro_bot"
+BOT_USERNAME = "Shreechat_robot"
 UPDATE_CHNL = "love_mhe"
 OWNER_USERNAME = "xazoc"
 SUPPORT_GRP = "x_support_chat"
