@@ -13,10 +13,10 @@ from datetime import datetime
 from pyrogram import enums
 API_ID = "25193832"
 API_HASH = "e154b1ccb0195edec0bc91ae7efebc2f"
-BOT_TOKEN = "7891459986:AAEGIWcXtzogVgc07IOHGYasC0c6nzINtrs"
+BOT_TOKEN = "7891459986:AAEGIWcXtzogVgc07IOHGYasC0c6nzINt"
 MONGO_URL = "mongodb+srv://great:great@cluster0.4qgnh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 BOT_USERNAME = "Shreechat_robot"
-UPDATE_CHNL = "love_mhe"
+UPDATE_CHNL = "your_support_channel"
 OWNER_USERNAME = "xazoc"
 SUPPORT_GRP = "x_support_chat"
 BOT_NAME = "ᯓ𓈒𓏸🇸𝚮 ɤ 𝛆 𝛆 ֣⃕🍂᭡≼ 𝟯🥂"
